@@ -1,0 +1,11 @@
+mtcnn
+tensorflow
+keras
+keras-vggface
+keras_applications
+PyYAML
+tqdm
+streamlit
+numpy
+sklearn
+streamlit
